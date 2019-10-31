@@ -15,7 +15,7 @@ dependencies:
   web3dart:
      git:
         url: https://github.com/simolus3/web3dart.git
-        ref: master
+        ref: HEAD
         path: simolus3/web3dart
               
 dev_dependencies:

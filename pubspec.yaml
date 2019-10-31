@@ -11,7 +11,10 @@ dependencies:
     sdk: flutter
 
   web3dart:
-      git: https://github.com/simolus3/web3dart.git
+     git:
+        url: https://github.com/simolus3/web3dart.git
+        ref: c4c64910f5743f1b5bfd738438166e795c5ed9aa
+        
   pointycastle: "^1.0.0-rc1"
 
 dev_dependencies:

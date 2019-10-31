@@ -12,11 +12,7 @@ dependencies:
   
   pointycastle: "^1.0.0-rc1"
   
-  web3dart:
-     git:
-        url: https://github.com/simolus3/web3dart.git
-        ref: HEAD
-        path: simolus3/web3dart
+  web3dart:web3dart: 1.2.1
               
 dev_dependencies:
   flutter_test:

@@ -9,16 +9,15 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-
+  
+  pointycastle: "^1.0.0-rc1"
+  
   web3dart:
      git:
         url: https://github.com/simolus3/web3dart.git
         ref: master
         path: .
-       
-        
-  pointycastle: "^1.0.0-rc1"
-
+              
 dev_dependencies:
   flutter_test:
     sdk: flutter
